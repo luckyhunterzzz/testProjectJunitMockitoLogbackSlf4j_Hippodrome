@@ -1,0 +1,126 @@
+2024-05-22 16:38:05.303 DEBUG Horse: Создание Horse, имя Bucephalus , скорость 2.4
+2024-05-22 16:38:05.305 DEBUG Horse: Создание Horse, имя Ace of Spades , скорость 2.5
+2024-05-22 16:38:05.305 DEBUG Horse: Создание Horse, имя Zephyr , скорость 2.6
+2024-05-22 16:38:05.305 DEBUG Horse: Создание Horse, имя Blaze , скорость 2.7
+2024-05-22 16:38:05.305 DEBUG Horse: Создание Horse, имя Lobster , скорость 2.8
+2024-05-22 16:38:05.305 DEBUG Horse: Создание Horse, имя Pegasus , скорость 2.9
+2024-05-22 16:38:05.305 DEBUG Horse: Создание Horse, имя Cherry , скорость 3.0
+2024-05-22 16:38:05.305 DEBUG Hippodrome: Создание Hippodrome, лошадей: 7
+2024-05-22 16:38:59.543 DEBUG Horse: Создание Horse, имя Bucephalus , скорость 2.4
+2024-05-22 16:38:59.545 DEBUG Horse: Создание Horse, имя Ace of Spades , скорость 2.5
+2024-05-22 16:38:59.545 DEBUG Horse: Создание Horse, имя Zephyr , скорость 2.6
+2024-05-22 16:38:59.545 DEBUG Horse: Создание Horse, имя Blaze , скорость 2.7
+2024-05-22 16:38:59.545 DEBUG Horse: Создание Horse, имя Lobster , скорость 2.8
+2024-05-22 16:38:59.545 DEBUG Horse: Создание Horse, имя Pegasus , скорость 2.9
+2024-05-22 16:38:59.545 DEBUG Horse: Создание Horse, имя Cherry , скорость 3.0
+2024-05-22 16:38:59.546 DEBUG Hippodrome: Создание Hippodrome, лошадей: 7
+2024-05-22 16:38:59.546 INFO  Main: Начало скачек. Количество участников: 7
+2024-05-22 16:39:20.226 INFO  Main: Окончание скачек. Победитель: Cherry
+2024-05-22 16:39:36.605 DEBUG Hippodrome: Создание Hippodrome, лошадей: 50
+2024-05-22 16:39:36.709 ERROR Hippodrome: Horses list is null
+2024-05-22 16:39:36.713 ERROR Hippodrome: Horses list is null
+2024-05-22 16:39:36.715 DEBUG Horse: Создание Horse, имя HorseTest1 , скорость 1.0
+2024-05-22 16:39:36.716 DEBUG Horse: Создание Horse, имя HorseTest2 , скорость 1.0
+2024-05-22 16:39:36.716 DEBUG Horse: Создание Horse, имя HorseTest3 , скорость 1.0
+2024-05-22 16:39:36.716 DEBUG Horse: Создание Horse, имя HorseTest4 , скорость 1.0
+2024-05-22 16:39:36.716 DEBUG Horse: Создание Horse, имя HorseTest5 , скорость 1.0
+2024-05-22 16:39:36.716 DEBUG Horse: Создание Horse, имя HorseTest6 , скорость 1.0
+2024-05-22 16:39:36.716 DEBUG Horse: Создание Horse, имя HorseTest7 , скорость 1.0
+2024-05-22 16:39:36.716 DEBUG Horse: Создание Horse, имя HorseTest8 , скорость 1.0
+2024-05-22 16:39:36.717 DEBUG Horse: Создание Horse, имя HorseTest9 , скорость 1.0
+2024-05-22 16:39:36.717 DEBUG Horse: Создание Horse, имя HorseTest10 , скорость 1.0
+2024-05-22 16:39:36.717 DEBUG Horse: Создание Horse, имя HorseTest11 , скорость 1.0
+2024-05-22 16:39:36.717 DEBUG Horse: Создание Horse, имя HorseTest12 , скорость 1.0
+2024-05-22 16:39:36.717 DEBUG Horse: Создание Horse, имя HorseTest13 , скорость 1.0
+2024-05-22 16:39:36.717 DEBUG Horse: Создание Horse, имя HorseTest14 , скорость 1.0
+2024-05-22 16:39:36.717 DEBUG Horse: Создание Horse, имя HorseTest15 , скорость 1.0
+2024-05-22 16:39:36.717 DEBUG Horse: Создание Horse, имя HorseTest16 , скорость 1.0
+2024-05-22 16:39:36.717 DEBUG Horse: Создание Horse, имя HorseTest17 , скорость 1.0
+2024-05-22 16:39:36.717 DEBUG Horse: Создание Horse, имя HorseTest18 , скорость 1.0
+2024-05-22 16:39:36.717 DEBUG Horse: Создание Horse, имя HorseTest19 , скорость 1.0
+2024-05-22 16:39:36.717 DEBUG Horse: Создание Horse, имя HorseTest20 , скорость 1.0
+2024-05-22 16:39:36.717 DEBUG Horse: Создание Horse, имя HorseTest21 , скорость 1.0
+2024-05-22 16:39:36.717 DEBUG Horse: Создание Horse, имя HorseTest22 , скорость 1.0
+2024-05-22 16:39:36.717 DEBUG Horse: Создание Horse, имя HorseTest23 , скорость 1.0
+2024-05-22 16:39:36.717 DEBUG Horse: Создание Horse, имя HorseTest24 , скорость 1.0
+2024-05-22 16:39:36.717 DEBUG Horse: Создание Horse, имя HorseTest25 , скорость 1.0
+2024-05-22 16:39:36.717 DEBUG Horse: Создание Horse, имя HorseTest26 , скорость 1.0
+2024-05-22 16:39:36.717 DEBUG Horse: Создание Horse, имя HorseTest27 , скорость 1.0
+2024-05-22 16:39:36.717 DEBUG Horse: Создание Horse, имя HorseTest28 , скорость 1.0
+2024-05-22 16:39:36.717 DEBUG Horse: Создание Horse, имя HorseTest29 , скорость 1.0
+2024-05-22 16:39:36.717 DEBUG Horse: Создание Horse, имя HorseTest30 , скорость 1.0
+2024-05-22 16:39:36.717 DEBUG Hippodrome: Создание Hippodrome, лошадей: 30
+2024-05-22 16:39:36.720 ERROR Hippodrome: Horses list is empty
+2024-05-22 16:39:36.722 ERROR Hippodrome: Horses list is empty
+2024-05-22 16:39:36.723 DEBUG Horse: Создание Horse, имя testHorseName0 , скорость 0.0
+2024-05-22 16:39:36.723 DEBUG Horse: Создание Horse, имя testHorseName1 , скорость 1.0
+2024-05-22 16:39:36.723 DEBUG Horse: Создание Horse, имя testHorseName2 , скорость 2.0
+2024-05-22 16:39:36.723 DEBUG Horse: Создание Horse, имя testHorseName3 , скорость 3.0
+2024-05-22 16:39:36.723 DEBUG Horse: Создание Horse, имя testHorseName4 , скорость 4.0
+2024-05-22 16:39:36.723 DEBUG Horse: Создание Horse, имя testHorseName5 , скорость 5.0
+2024-05-22 16:39:36.723 DEBUG Horse: Создание Horse, имя testHorseName6 , скорость 6.0
+2024-05-22 16:39:36.723 DEBUG Horse: Создание Horse, имя testHorseName7 , скорость 7.0
+2024-05-22 16:39:36.723 DEBUG Horse: Создание Horse, имя testHorseName8 , скорость 8.0
+2024-05-22 16:39:36.723 DEBUG Horse: Создание Horse, имя testHorseName9 , скорость 9.0
+2024-05-22 16:39:36.723 DEBUG Horse: Создание Horse, имя testHorseName10 , скорость 10.0
+2024-05-22 16:39:36.723 DEBUG Horse: Создание Horse, имя testHorseName11 , скорость 11.0
+2024-05-22 16:39:36.723 DEBUG Horse: Создание Horse, имя testHorseName12 , скорость 12.0
+2024-05-22 16:39:36.723 DEBUG Horse: Создание Horse, имя testHorseName13 , скорость 13.0
+2024-05-22 16:39:36.723 DEBUG Horse: Создание Horse, имя testHorseName14 , скорость 14.0
+2024-05-22 16:39:36.723 DEBUG Horse: Создание Horse, имя testHorseName15 , скорость 15.0
+2024-05-22 16:39:36.723 DEBUG Horse: Создание Horse, имя testHorseName16 , скорость 16.0
+2024-05-22 16:39:36.723 DEBUG Horse: Создание Horse, имя testHorseName17 , скорость 17.0
+2024-05-22 16:39:36.724 DEBUG Horse: Создание Horse, имя testHorseName18 , скорость 18.0
+2024-05-22 16:39:36.724 DEBUG Horse: Создание Horse, имя testHorseName19 , скорость 19.0
+2024-05-22 16:39:36.724 DEBUG Horse: Создание Horse, имя testHorseName20 , скорость 20.0
+2024-05-22 16:39:36.724 DEBUG Horse: Создание Horse, имя testHorseName21 , скорость 21.0
+2024-05-22 16:39:36.724 DEBUG Horse: Создание Horse, имя testHorseName22 , скорость 22.0
+2024-05-22 16:39:36.724 DEBUG Horse: Создание Horse, имя testHorseName23 , скорость 23.0
+2024-05-22 16:39:36.724 DEBUG Horse: Создание Horse, имя testHorseName24 , скорость 24.0
+2024-05-22 16:39:36.724 DEBUG Horse: Создание Horse, имя testHorseName25 , скорость 25.0
+2024-05-22 16:39:36.724 DEBUG Horse: Создание Horse, имя testHorseName26 , скорость 26.0
+2024-05-22 16:39:36.724 DEBUG Horse: Создание Horse, имя testHorseName27 , скорость 27.0
+2024-05-22 16:39:36.724 DEBUG Horse: Создание Horse, имя testHorseName28 , скорость 28.0
+2024-05-22 16:39:36.724 DEBUG Horse: Создание Horse, имя testHorseName29 , скорость 29.0
+2024-05-22 16:39:36.724 DEBUG Horse: Создание Horse, имя testHorseName30 , скорость 30.0
+2024-05-22 16:39:36.724 DEBUG Horse: Создание Horse, имя testHorseName31 , скорость 31.0
+2024-05-22 16:39:36.724 DEBUG Horse: Создание Horse, имя testHorseName32 , скорость 32.0
+2024-05-22 16:39:36.724 DEBUG Horse: Создание Horse, имя testHorseName33 , скорость 33.0
+2024-05-22 16:39:36.724 DEBUG Horse: Создание Horse, имя testHorseName34 , скорость 34.0
+2024-05-22 16:39:36.724 DEBUG Horse: Создание Horse, имя testHorseName35 , скорость 35.0
+2024-05-22 16:39:36.724 DEBUG Horse: Создание Horse, имя testHorseName36 , скорость 36.0
+2024-05-22 16:39:36.724 DEBUG Horse: Создание Horse, имя testHorseName37 , скорость 37.0
+2024-05-22 16:39:36.724 DEBUG Horse: Создание Horse, имя testHorseName38 , скорость 38.0
+2024-05-22 16:39:36.724 DEBUG Horse: Создание Horse, имя testHorseName39 , скорость 39.0
+2024-05-22 16:39:36.724 DEBUG Horse: Создание Horse, имя testHorseName40 , скорость 40.0
+2024-05-22 16:39:36.724 DEBUG Horse: Создание Horse, имя testHorseName41 , скорость 41.0
+2024-05-22 16:39:36.724 DEBUG Horse: Создание Horse, имя testHorseName42 , скорость 42.0
+2024-05-22 16:39:36.724 DEBUG Horse: Создание Horse, имя testHorseName43 , скорость 43.0
+2024-05-22 16:39:36.725 DEBUG Horse: Создание Horse, имя testHorseName44 , скорость 44.0
+2024-05-22 16:39:36.725 DEBUG Horse: Создание Horse, имя testHorseName45 , скорость 45.0
+2024-05-22 16:39:36.725 DEBUG Horse: Создание Horse, имя testHorseName46 , скорость 46.0
+2024-05-22 16:39:36.725 DEBUG Horse: Создание Horse, имя testHorseName47 , скорость 47.0
+2024-05-22 16:39:36.725 DEBUG Horse: Создание Horse, имя testHorseName48 , скорость 48.0
+2024-05-22 16:39:36.725 DEBUG Horse: Создание Horse, имя testHorseName49 , скорость 49.0
+2024-05-22 16:39:36.725 DEBUG Hippodrome: Создание Hippodrome, лошадей: 50
+2024-05-22 16:41:04.181 DEBUG Horse: Создание Horse, имя HorseTest1 , скорость 0.0
+2024-05-22 16:41:04.191 DEBUG Horse: Создание Horse, имя HorseTest1 , скорость 5.0
+2024-05-22 16:41:04.218 ERROR Horse: Horse: Name is blank
+2024-05-22 16:41:04.222 ERROR Horse: Horse: Name is blank
+2024-05-22 16:41:04.224 ERROR Horse: Horse: Name is blank
+2024-05-22 16:41:04.226 ERROR Horse: Horse: Name is null
+2024-05-22 16:41:04.227 DEBUG Horse: Создание Horse, имя HorseTest1 , скорость 5.0
+2024-05-22 16:41:04.336 ERROR Horse: Horse: Speed is negative
+2024-05-22 16:41:04.338 DEBUG Horse: Создание Horse, имя HorseTest1 , скорость 0.0
+2024-05-22 16:41:04.341 ERROR Horse: Horse: Name is null
+2024-05-22 16:41:04.343 DEBUG Horse: Создание Horse, имя HorseTest1 , скорость 0.0
+2024-05-22 16:41:04.348 ERROR Horse: Horse: Name is blank
+2024-05-22 16:41:04.351 ERROR Horse: Horse: Name is blank
+2024-05-22 16:41:04.354 ERROR Horse: Horse: Name is blank
+2024-05-22 16:41:04.356 ERROR Horse: Horse: Speed is negative
+2024-05-22 16:41:04.359 ERROR Horse: Horse: Distance is negative
+2024-05-22 16:41:04.361 ERROR Horse: Horse: Distance is negative
+2024-05-22 16:41:04.365 DEBUG Horse: Создание Horse, имя HorseTest1 , скорость 5.0
+2024-05-22 16:41:04.379 DEBUG Horse: Создание Horse, имя HorseTest1 , скорость 5.0
+2024-05-22 16:41:04.382 DEBUG Horse: Создание Horse, имя HorseTest1 , скорость 5.0
+2024-05-22 16:41:04.385 DEBUG Horse: Создание Horse, имя HorseTest1 , скорость 5.0

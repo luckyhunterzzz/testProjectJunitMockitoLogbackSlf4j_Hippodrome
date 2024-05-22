@@ -1,0 +1,28 @@
+<configuration>
+
+    <!-- Настройка аппендера для записи логов в файл -->
+    <appender name="ROLLING" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <!-- Основной лог-файл -->
+        <file>Logs/hippodrome.log</file>
+
+        <!-- Политика ротации -->
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <!-- Шаблон для архивации лог-файлов -->
+            <fileNamePattern>Logs/hippodrome.%d{yyyy-MM-dd}.log</fileNamePattern>
+
+            <!-- Максимальное количество хранимых архивных лог-файлов -->
+            <maxHistory>7</maxHistory>
+        </rollingPolicy>
+
+        <!-- Настройка формата логов -->
+        <encoder>
+            <pattern>%d{yyyy-MM-dd HH:mm:ss.SSS} %-5level %logger{36}: %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <!-- Корневой логгер -->
+    <root level="debug">
+        <appender-ref ref="ROLLING" />
+    </root>
+
+</configuration>
